@@ -1,1 +1,1 @@
-{"open": 1, "url": "https:\/\/www.live11.soccer"}
+{"open": 0, "url": "https:\/\/www.live11.soccer"}
